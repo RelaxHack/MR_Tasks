@@ -1,0 +1,7 @@
+try
+
+$ ./main_script.sh [OPTION]
+
+or $ ./main_script [List of PIDs] [Interval]
+
+Option:    -h - Help        --exit - option to abort it’s execution

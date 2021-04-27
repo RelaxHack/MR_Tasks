@@ -1,0 +1,4 @@
+Simpliest_DB.tar includes two files
+DB.txt - database
+simpleiest_DB.sh - script
+The script and DB must be in the same place

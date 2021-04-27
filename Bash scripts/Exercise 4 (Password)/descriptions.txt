@@ -1,0 +1,3 @@
+try 
+$ ./password.sh “*some passwd*“
+to get result

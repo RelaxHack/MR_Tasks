@@ -1,0 +1,2 @@
+program first requesting from user PID or process name(select before typing),
+further time and gives result as .csv file which in the future converting to excel and created chart(manual)

@@ -1,0 +1,6 @@
+Short descriptions of tasks
+1.	These scripts should print out the information about top 10 processes which use a lot of system resources (CPU and memory). 
+2.	During the time specified in cmd-line parameter your script should collect the following information about the process: CPU, memory.
+3.	Simpliest database
+4.	Write a script to check and validate passwords. (Min 8 char; Must contain at least one alphabetic character, numeric character; Must contain at least one of the following non-alphabetic characters: @, #, $, %, &, *, +, -, =
+5.	Develop the script, which would run in background and monitor the CPU usage and memory consumption of the given processes
